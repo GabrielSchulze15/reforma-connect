@@ -1,0 +1,22 @@
+{
+  "name": "Reforma Connect",
+  "short_name": "Reforma",
+  "description": "Serviços domésticos na palma da mão",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0ede6",
+  "theme_color": "#f97316",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
