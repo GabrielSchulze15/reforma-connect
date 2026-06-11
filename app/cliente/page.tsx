@@ -769,7 +769,7 @@ export default function DashboardCliente() {
   };
 
   return (
-    <div className="min-h-screen bg-white flex flex-col w-full max-w-md mx-auto">
+    <div className="min-h-screen bg-white flex flex-col max-w-sm mx-auto">
 
       {/* TOP BAR */}
       <div className="bg-[#f0ede6] px-4 pt-12 pb-5">
